@@ -1,0 +1,19 @@
+{
+  "id": "grok-imagine-image-quality",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-16T01:53:38Z",
+  "prices": {
+    "1K": {
+      "list": 0.05,
+      "effective": 0.04
+    },
+    "2K": {
+      "list": 0.07,
+      "effective": 0.056
+    }
+  },
+  "rates": {},
+  "unit": "usd_per_image",
+  "hook": "from $0.04 per image on the APIMart route",
+  "model_page": "https://apimart.ai/model/grok-imagine-image-quality"
+}
