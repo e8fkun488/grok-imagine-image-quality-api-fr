@@ -105,6 +105,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-63209e) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [grok-imagine-image-quality-prompts-fr](https://github.com/e8fkun488/grok-imagine-image-quality-prompts-fr)
+- **Same model, other languages** — 9 more language builds: 中文 [grok-imagine-image-quality-api-cn](https://github.com/cm2dnh/grok-imagine-image-quality-api-cn) · Deutsch [grok-imagine-image-quality-api-de](https://github.com/lt4exrv2x5zqj/grok-imagine-image-quality-api-de) · Español `grok-imagine-image-quality-api-es` · Relay/gateway [grok-imagine-image-quality-api-gateway](https://github.com/m9jg5p/grok-imagine-image-quality-api-gateway) · Bahasa [grok-imagine-image-quality-api-id](https://github.com/cf18pveehcua86/grok-imagine-image-quality-api-id) · 日本語 [grok-imagine-image-quality-api-ja](https://github.com/na9sz7agrva9l/grok-imagine-image-quality-api-ja) · 한국어 [grok-imagine-image-quality-api-ko](https://github.com/ond750/grok-imagine-image-quality-api-ko) · Português `grok-imagine-image-quality-api-pt` · Русский [grok-imagine-image-quality-api-ru](https://github.com/ll09ddjs6o2vbg/grok-imagine-image-quality-api-ru)
+- **More models in this language** — [midjourney-api-fr](https://github.com/apimartt1q/midjourney-api-fr) · [gemini-2-5-flash-image-preview-api-fr](https://github.com/haftslut7ha/gemini-2-5-flash-image-preview-api-fr) · [nano-banana-api-fr](https://github.com/f84q06w110/nano-banana-api-fr) · [gemini-3-1-flash-image-preview-api-fr](https://github.com/ok71ckyc/gemini-3-1-flash-image-preview-api-fr) · [nano-banana-2-api-fr](https://github.com/ms0p12t/nano-banana-2-api-fr) · [gemini-3-pro-image-preview-api-fr](https://github.com/w-44vba/gemini-3-pro-image-preview-api-fr)
+- **Topic hubs** — every build of this model, all languages: [grok-imagine-image-quality](https://github.com/topics/grok-imagine-image-quality) · [grok-imagine-image-quality-api](https://github.com/topics/grok-imagine-image-quality-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
